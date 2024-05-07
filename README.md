@@ -1,6 +1,6 @@
 # DeepLabv3Plus-Pytorch
 
-DeepLabv3, DeepLabv3+ with pretrained models for Pascal VOC & Cityscapes.
+DeepLabv3, DeepLabv3+ with pretrained models for Cityscapes.
 
 ## Quick Start 
 
