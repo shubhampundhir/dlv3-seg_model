@@ -1,0 +1,1 @@
+python predict.py --input /home/sharat/sharat/SegFormer/demo/car_move  --dataset cityscapes --model deeplabv3plus_resnet101 --ckpt checkpoints/CITY_768x768/best_deeplabv3plus_resnet101_cityscapes_os16.pth --save_val_results_to test_results
